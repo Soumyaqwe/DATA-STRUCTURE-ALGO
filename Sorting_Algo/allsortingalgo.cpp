@@ -1,6 +1,7 @@
 //bubble sort
 #include<bits/stdc++.h>
 using namespace std;
+//bubble sort
 void bubblesort(int arr[],int n)
 {
      for(int i=0;i<n-1;i++)
